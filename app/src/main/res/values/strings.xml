@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lotus Auto consulting</string>
+    <string name="edit_text">Enter vehicle number/name</string>
+    <string name="button_search">Search</string>
+</resources>
